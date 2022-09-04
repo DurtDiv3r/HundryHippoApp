@@ -7,6 +7,7 @@ import com.islaharper.hungryhippo.databinding.ActivitySuccessfulOrderBinding
 import com.islaharper.hungryhippo.models.RestaurantModelItem
 
 class SuccessfulOrderActivity : AppCompatActivity() {
+
     private lateinit var binding: ActivitySuccessfulOrderBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
